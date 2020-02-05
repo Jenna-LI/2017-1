@@ -1,0 +1,27 @@
+{
+  "name": "2017-1",
+  "version": "0.0.1",
+  "description": "learning to make node servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenna-LI/2017-1.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "server"
+  ],
+  "author": "Jenna Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jenna-LI/2017-1/issues"
+  },
+  "homepage": "https://github.com/Jenna-LI/2017-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
